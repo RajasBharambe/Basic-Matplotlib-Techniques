@@ -1,1 +1,1 @@
-# *Basic-Matplotlib-Techniques*
+# *BasicMatplotlib-Techniques*
